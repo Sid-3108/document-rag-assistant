@@ -84,3 +84,17 @@ This is a learning and demonstration project exploring PDF-based question answer
 ## Security
 
 Do not upload API keys, private documents, or confidential data to the public repository.
+
+
+## Demo & Documentation
+
+- [RAG Architecture Presentation](docs-ppt/RAG_Architecture.pdf)
+- [Application Output Screenshot](screenshots/screencapture-localhost-8501-2026-10-20-19_28_50.pdf)
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
