@@ -88,7 +88,7 @@ Do not upload API keys, private documents, or confidential data to the public re
 
 ## Demo & Documentation
 
-- [RAG Architecture Presentation](docs-ppt/RAG_Architecture - Sid.pptx)
+- [RAG Architecture Presentation](docs-ppt/RAG_Architecture - Sid)
 - [Application Output Screenshot](screenshots/screencapture-localhost-8501-2026-10-20-19_28_50.pdf)
 
 ## Run Locally
